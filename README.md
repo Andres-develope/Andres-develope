@@ -44,7 +44,7 @@ Coursera
 - Cel: +57 3136251926
 - Email: <a href="andfell0414@gmail.com" target="_blank">andfell0414@gmail.com</a>
 - <a href="https://www.linkedin.com/feed/">Linkedin</a>
-- <a href="https://andres-develope.github.io/Cvandres/">Hoja de Vida</a>
+
 
 
 ## :trophy: Cursos
