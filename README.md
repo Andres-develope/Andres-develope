@@ -32,7 +32,6 @@ Coursera
 ## :computer:  Habilidades Técnicas
 - JAVA - SQL
 - JAVASCRIPT - HTML5
-- CCS3 - MYSQL
 - GIT & GITHUB - WORDPRESS
 - JAVA SPRNG BOOT - JAVA SPRING
 - ANGULAR  - TYPESCRIPT
