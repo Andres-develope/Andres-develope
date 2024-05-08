@@ -34,7 +34,7 @@ Coursera
 - JAVASCRIPT - HTML5
 - CCS3 - MYSQL
 - GIT & GITHUB - WORDPRESS
-- JAVA SPRING  - JAVA SPRNG BOOT
+- JAVA SPRNG BOOT - JAVA SPRING
 - ANGULAR  - TYPESCRIPT
 - XAMARIN -C#
 - CANVA
@@ -52,8 +52,13 @@ Coursera
 - Curso de Computacion Básica Platzi
 
 - Fundamentos de java Sping Boot
+  
+- Curso de Java Spring
+  
+- Curso Programacion Orientada a Objetos
+  
 
-- Curso de Java Spring 
+
 
  
 
